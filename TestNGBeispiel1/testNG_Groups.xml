@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite Selenium TestNG Beispiel">
+
+	<test thread-count="5" name="Test fuer Groups">
+		<groups>
+			<define name="integrationstests">
+				<include name="daily"></include>
+				<include name="weekly"></include>
+			</define>
+
+			<run>
+				<include name="integrationstests"></include>
+			</run>
+
+		</groups>
+
+
+		<classes>
+			<class name="christophlichtblau.SeleniumKurs.tests.NewTest"></class>
+			<class name="christophlichtblau.SeleniumKurs.tests.NewTest2"></class>
+			<class name="christophlichtblau.SeleniumKurs.tests.NewTest3"></class>
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->

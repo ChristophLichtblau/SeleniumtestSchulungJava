@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-10T07:33:07 MESZ" name="Default suite" finished-at="2024-10-10T07:33:58 MESZ" duration-ms="51015">
+    <groups>
+    </groups>
+    <test started-at="2024-10-10T07:33:07 MESZ" name="Default test" finished-at="2024-10-10T07:33:58 MESZ" duration-ms="51015">
+      <class name="SeleniumKursTest.SeleniumKursTestForm1">
+        <test-method signature="ftestForm1([Ljava.lang.Object;)[pri:0, instance:SeleniumKursTest.SeleniumKursTestForm1@3c407114]" started-at="2024-10-10T07:33:08 MESZ" name="ftestForm1" data-provider="Data-Provider" finished-at="2024-10-10T07:33:58 MESZ" duration-ms="50888" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@37ceb1df]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ftestForm1 -->
+        <test-method signature="ftestForm1([Ljava.lang.Object;)[pri:0, instance:SeleniumKursTest.SeleniumKursTestForm1@3c407114]" started-at="2024-10-10T07:33:08 MESZ" name="ftestForm1" data-provider="Data-Provider" finished-at="2024-10-10T07:33:58 MESZ" duration-ms="50879" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7c9d8e2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ftestForm1 -->
+        <test-method signature="ftestForm1([Ljava.lang.Object;)[pri:0, instance:SeleniumKursTest.SeleniumKursTestForm1@3c407114]" started-at="2024-10-10T07:33:08 MESZ" name="ftestForm1" data-provider="Data-Provider" finished-at="2024-10-10T07:33:58 MESZ" duration-ms="50906" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@20d525]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ftestForm1 -->
+      </class> <!-- SeleniumKursTest.SeleniumKursTestForm1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

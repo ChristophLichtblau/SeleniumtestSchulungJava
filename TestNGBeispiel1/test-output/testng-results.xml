@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-09T13:40:02 MESZ" name="Suite Selenium Parameter Beispiel" finished-at="2024-10-09T13:40:02 MESZ" duration-ms="183">
+    <groups>
+    </groups>
+    <test started-at="2024-10-09T13:40:02 MESZ" name="Test fuer Parallelisierung1" finished-at="2024-10-09T13:40:02 MESZ" duration-ms="181">
+      <class name="christophlichtblau.SeleniumKurs.tests.ParameterTest3">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:christophlichtblau.SeleniumKurs.tests.ParameterTest3@50a638b5]" started-at="2024-10-09T13:40:02 MESZ" name="setupTest" finished-at="2024-10-09T13:40:02 MESZ" duration-ms="26" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="driverSetup2([Ljava.lang.String;)[pri:0, instance:christophlichtblau.SeleniumKurs.tests.ParameterTest3@50a638b5]" started-at="2024-10-09T13:40:02 MESZ" name="driverSetup2" data-provider="Data-Provider" finished-at="2024-10-09T13:40:02 MESZ" duration-ms="22" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4d8147b7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup2 -->
+        <test-method signature="driverSetup2([Ljava.lang.String;)[pri:0, instance:christophlichtblau.SeleniumKurs.tests.ParameterTest3@50a638b5]" started-at="2024-10-09T13:40:02 MESZ" name="driverSetup2" data-provider="Data-Provider" finished-at="2024-10-09T13:40:02 MESZ" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@671da6f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup2 -->
+        <test-method signature="driverSetup2([Ljava.lang.String;)[pri:0, instance:christophlichtblau.SeleniumKurs.tests.ParameterTest3@50a638b5]" started-at="2024-10-09T13:40:02 MESZ" name="driverSetup2" data-provider="Data-Provider" finished-at="2024-10-09T13:40:02 MESZ" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@19d1b0da]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup2 -->
+      </class> <!-- christophlichtblau.SeleniumKurs.tests.ParameterTest3 -->
+    </test> <!-- Test fuer Parallelisierung1 -->
+    <test started-at="2024-10-09T13:40:02 MESZ" name="Test fuer Parallelisierung2" finished-at="2024-10-09T13:40:02 MESZ" duration-ms="181">
+      <class name="christophlichtblau.SeleniumKurs.tests.ParameterTest3">
+        <test-method is-config="true" signature="setupTest(java.lang.String)[pri:0, instance:christophlichtblau.SeleniumKurs.tests.ParameterTest3@7334aada]" started-at="2024-10-09T13:40:02 MESZ" name="setupTest" finished-at="2024-10-09T13:40:02 MESZ" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="driverSetup2([Ljava.lang.String;)[pri:0, instance:christophlichtblau.SeleniumKurs.tests.ParameterTest3@7334aada]" started-at="2024-10-09T13:40:02 MESZ" name="driverSetup2" data-provider="Data-Provider" finished-at="2024-10-09T13:40:02 MESZ" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@fa5bf53]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup2 -->
+        <test-method signature="driverSetup2([Ljava.lang.String;)[pri:0, instance:christophlichtblau.SeleniumKurs.tests.ParameterTest3@7334aada]" started-at="2024-10-09T13:40:02 MESZ" name="driverSetup2" data-provider="Data-Provider" finished-at="2024-10-09T13:40:02 MESZ" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7161293b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup2 -->
+        <test-method signature="driverSetup2([Ljava.lang.String;)[pri:0, instance:christophlichtblau.SeleniumKurs.tests.ParameterTest3@7334aada]" started-at="2024-10-09T13:40:02 MESZ" name="driverSetup2" data-provider="Data-Provider" finished-at="2024-10-09T13:40:02 MESZ" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@53097376]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup2 -->
+      </class> <!-- christophlichtblau.SeleniumKurs.tests.ParameterTest3 -->
+    </test> <!-- Test fuer Parallelisierung2 -->
+  </suite> <!-- Suite Selenium Parameter Beispiel -->
+</testng-results>

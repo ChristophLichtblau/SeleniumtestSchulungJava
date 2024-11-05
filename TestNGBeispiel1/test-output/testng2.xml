@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite Selenium TestNG Beispiel">
+
+  <test thread-count="5" name="Test fuer Modul Y">
+    <classes>
+      <class name="christophlichtblau.SeleniumKurs.tests.NewTest2">
+      		<methods>
+      			<include name="g1"></include>
+      			<include name="g3"></include>
+      			<!-- mögliche wäre auch: <exclude name="g2"></exclude> --> 
+      		</methods>/>
+      </class>
+      <class name="christophlichtblau.SeleniumKurs.tests.NewTest3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
